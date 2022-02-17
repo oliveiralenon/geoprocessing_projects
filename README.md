@@ -1,4 +1,4 @@
-<h1>Consumo de energia por país em 2014 </h1>
+<h1>Consumo energético por país em 2014</h1>
 
 
 
